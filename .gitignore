@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+orchid_env/
+*.zip
+logs/
+*.egg-info/
+.DS_Store
