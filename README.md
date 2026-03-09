@@ -40,4 +40,4 @@ PYTHONPATH=. python3 evaluation/zero_shot_eval.py
 
 ## Author
 Sivaram Venugopal
-EOF
+
